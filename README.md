@@ -163,3 +163,19 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 - [x]  Implements a structured approach to report development, ensuring consistency and reliability in outputs.
 
 - [x]  Skilled at communicating insights and recommendations effectively, supporting data-driven decision-making.
+
+## 🙏 Acknowledgments
+
+- [x] Blinkit for inspiring this analytical exploration
+- [x] Kaggle community for dataset availability
+- [x] Quick-commerce industry leaders for domain insights
+
+## 🔗 Connect & Collaborate
+- [x] Analyst: Soumyadeep Dhar
+- [x] 📧 Email: soumyadeepdhar433@gmail.com
+- [x] 💼 LinkedIn: Soumyadeep Dhar
+
+## 🌟 Star this repository if you found it helpful!
+- [x] Keywords: data-analytics business-intelligence excel-dashboard retail-analytics quick-commerce kpi-analysis data-visualization sales-analytics power-bi      python-data-analysis sql etl predictive-analytics inventory-management strategic-planning
+
+
