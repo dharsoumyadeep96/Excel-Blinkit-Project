@@ -57,7 +57,7 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 
 ##  📈 Key Insights Delivered
 
-# Business Performance
+### Business Performance
 - [x] $1.20M total sales across analysis period
 - [x] $141 average transaction value
 - [x] 4.0/5 customer satisfaction rating
