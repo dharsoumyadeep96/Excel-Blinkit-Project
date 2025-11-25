@@ -24,15 +24,6 @@ With a 10-minute delivery commitment, Blinkit is a highly efficient instant deli
 
 - [x] Handling missing value,Removing duplicates,Correctinginconsistencies, Format standardization
 
-## Visualization Techniques
-
-- [x] Donut Charts (Fat Content Analysis)
-- [x] Stacked Column Charts (Outlet Segmentation)
-- [x] Bar Charts (Item Type Performance)
-- [x] Line Charts (Time-Series Trends)
-- [x] Funnel Maps (Geographic Distribution)
-- [x] Matrix Cards (Multi-Metric Comparison)
-- [x] Pie Charts (Size Correlation)
 
 ## Project Objective 
 
