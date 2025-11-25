@@ -93,27 +93,27 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 
 ## 💡 Problem-Solving Framework
 
--### Challenge 1: Supplier Management Complexity
+### Challenge 1: Supplier Management Complexity
 - [x] Solution: Centralized vendor management system with automated communication protocols and supplier scorecards
 
--### Challenge 2: Inventory Tracking (8,523 SKUs)
+### Challenge 2: Inventory Tracking (8,523 SKUs)
 - [x] Solution: Real-time software integration (Oracle NetSuite/SAP) with RFID/barcode scanning and automated reorder points
 
--### Challenge 3: Demand Forecasting
+### Challenge 3: Demand Forecasting
 - [x] Solution: Predictive analytics with category-specific models:
 - [x] Daily forecasting for fresh produce
 - [x] Monthly cycles for canned goods
 - [x] Seasonal adjustments for fluctuating items
 
--###  Challenge 4: Wastage Risk
+### Challenge 4: Wastage Risk
 - [x] Solution: FIFO methodology, ABC analysis, safety stock optimization, and moving average forecasting
 
 ## 🚀 Strategic Recommendations
 
--### Tier 3 Expansion Strategy
+### Tier 3 Expansion Strategy
 - [x] Target Markets: Semi-urban towns (50K-200K population) with emerging middle-class demographics
 
--###  Success Factors
+### Success Factors
 
 - [x] Maintain 65% low-fat product mix
 - [x] Replicate winning Tier 3 merchandising strategies
@@ -125,7 +125,7 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 - [x] Tier 3 to represent 50% of total business ($660K+)
 
 ##  📊 Dashboard Preview
--### Main Dashboard Features
+### Main Dashboard Features
 
 - [x] KPI Cards: Total Sales, Avg Sales, Item Count, Ratings
 - [x] Product Performance: Category-wise revenue breakdown
@@ -142,7 +142,7 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 
 ## ⭐ Learning Outcomes
 
--###  This project demonstrates proficiency in:
+### This project demonstrates proficiency in:
 
 - [x] Data Wrangling: Cleaning and preprocessing 8,523+ transactional records
 - [x] Business Intelligence: KPI framework design and metric definition
