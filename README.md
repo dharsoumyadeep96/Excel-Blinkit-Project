@@ -1,4 +1,5 @@
-# Excel-Blinkit-Project
+# <img width="404" height="316" alt="blinkit logo" src="https://github.com/user-attachments/assets/c16bc5fb-1f42-4ae2-88d1-3a5b58b4fa9a" />
+Excel-Blinkit-Project
 This detailed  presentation highlights an end-to-end analytics project for the largest quick-commerce platform in India, Blinkit (formerly Grofers).  From $1.20 million in sales data representing 8,523 transactions across a 12-year period (2011-2022), the analysis provides strategic insights.
 
 ## 🔎 Project Overview
@@ -140,7 +141,7 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 - [x] Date range selectors for time-series analysis
 - [x] Drill-down capabilities for granular insights
 
-## ⭐ Learning Outcomes
+## 🎓 Learning Outcomes
 
 ### This project demonstrates proficiency in:
 
@@ -151,6 +152,8 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 - [x] Strategic Thinking: Translating data insights into business actions
 - [x] Domain Knowledge: Quick-commerce and retail analytics
 - [x] Cross-Functional Collaboration: Working with operations and business teams
+- [x] Adopted a color palette for consistency throughout the dashboard (https://coolors.co/palette/139a43-66d17f-0dab76-d19c1d-fe5f55)
+      
 
 ## 🤝 Soft Skills
 
@@ -173,7 +176,7 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 ## 🔗 Connect & Collaborate
 - [x] Analyst: Soumyadeep Dhar
 - [x] 📧 Email: soumyadeepdhar433@gmail.com
-- [x] 💼 LinkedIn: Soumyadeep Dhar
+- [x] 💼 LinkedIn: www.linkedin.com/in/soumyadeep-dhar-785724333
 
 ## 🌟 Star this repository if you found it helpful!
 - [x] Keywords: data-analytics business-intelligence excel-dashboard retail-analytics quick-commerce kpi-analysis data-visualization sales-analytics power-bi      python-data-analysis sql etl predictive-analytics inventory-management strategic-planning
