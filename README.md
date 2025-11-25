@@ -38,14 +38,14 @@ With a 10-minute delivery commitment, Blinkit is a highly efficient instant deli
 
 Conduct a thorough business intelligence analysis of Blinkit's inventory distribution, customer satisfaction, and sales performance.  The objective is to use Microsoft Excel's defined Key Performance Indicators (KPIs) and data visualizations to extract actionable insights and optimization opportunities.
 
-## KPI's Requirements
+## ⚜️ KPI's Requirements
 
 - [x] Total Sales: The overall revenue generated from all items sold.
 - [x] Average Sales: The average revenue per sale.
 - [x] Number of Items: The total count of different items sold.
 - [x] Average Rating: The average customer rating for items sold.
 
-##  Visualization Techniques
+## 📊 Visualization Techniques
 
 - [x] Donut Charts (Fat Content Analysis)
 - [x] Stacked Column Charts (Outlet Segmentation)
@@ -57,11 +57,13 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 
 ##  📈 Key Insights Delivered
 
-- [x] Business Performance :-
-✅ $1.20M total sales across analysis period
-✅ $141 average transaction value
-✅ 4.0/5 customer satisfaction rating
-✅ 400,000+ daily orders fulfilled
+# Business Performance
+- [x] $1.20M total sales across analysis period
+- [x] $141 average transaction value
+- [x] 4.0/5 customer satisfaction rating
+- [x] 400,000+ daily orders fulfilled
+
+
 
 
 
