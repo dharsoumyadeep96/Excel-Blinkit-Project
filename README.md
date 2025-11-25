@@ -180,6 +180,6 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 - [x] 💼 LinkedIn: www.linkedin.com/in/soumyadeep-dhar-785724333
 
 ## 🌟 Star this repository if you found it helpful!
-- [x] Keywords: data-analytics business-intelligence excel-dashboard retail-analytics quick-commerce kpi-analysis data-visualization sales-analytics power-bi      python-data-analysis sql etl predictive-analytics inventory-management strategic-planning
+- [x] Keywords: data-analytics,  business-intelligence,  excel-dashboard retail-analytics,  quick-commerce, kpi-analysis, data-visualization, sales-analytics,  inventory-management strategic-planning
 
 
