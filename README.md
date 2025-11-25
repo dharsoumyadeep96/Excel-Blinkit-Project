@@ -72,7 +72,7 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 
  ### 🗂️Data Collection
 
-- [x] obtained unprocessed transactional data from the sales management system of Blinkit and data taken from Kaggle
+- [x] Obtained unprocessed transactional data from the sales management system of Blinkit and data taken from Kaggle
  
 ### ⚙️ Data Preprocessing
 
