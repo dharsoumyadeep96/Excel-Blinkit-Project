@@ -1,4 +1,4 @@
-# Excel-Blinkit Sales Project
+# Blinkit Quick Commerce Sales Analytics 
 
 ## <img width="404" height="316" alt="blinkit logo" src="https://github.com/user-attachments/assets/c16bc5fb-1f42-4ae2-88d1-3a5b58b4fa9a" />
 
